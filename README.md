@@ -1,60 +1,42 @@
 # 👋 Hi, I'm Rishivardan!
 
-🎓 Computer Science Undergraduate at University of Westminster (IIT Sri Lanka)  
-💻 Full-Stack Developer passionate about building scalable web applications  
-🚀 Currently developing an AI-powered Study Planner  
+🎓 Computer Science Undergraduate (University of Westminster - IIT)  
+💻 Full-Stack Developer  
+🚀 Building an AI-powered Study Planner  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 AI Personalized Study Planner
-- Built using React, Flask, Firebase  
-- Generates personalized study schedules based on user inputs  
-- Includes dashboard, reminders, and analytics  
-👉 Repo: github.com/rishivardan/study-planner  
-👉 Live: scheduler.it.com  
+🔹 AI Study Planner  
+React + Flask + Firebase  
+👉 Live: https://scheduler.it.com  
 
----
-
-### 🔹 Appointment Booking System
-- Full-stack application using React, FastAPI, MongoDB  
-- REST API-based booking system with CRUD operations  
-- Responsive UI with real-time data handling  
+🔹 Appointment Booking System  
+React + FastAPI + MongoDB  
 👉 Repo: github.com/rishivardan/appointment-booking  
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend:** React, HTML5, CSS3  
-**Backend:** Flask, FastAPI, Node.js  
-**Databases:** MongoDB, Firebase (Firestore & Auth)  
-**Cloud & DevOps:** AWS (EC2, S3), Vercel, Render, CI/CD  
-**Tools:** Git, GitHub, Postman  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishivardan&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishivardan&show_icons=true&theme=tokyonight)
-
----
-
-## 🔍 Currently Learning
-
-- Docker & Kubernetes  
-- DevOps & CI/CD Pipelines  
-- System Design Fundamentals  
+## 🌐 Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/rishivardan-vallikanthan-42b464350/)  
+📧 rishivardan2004@gmail.com  
 
 ---
 
-## 🌐 Connect with Me
-
-🔗 LinkedIn: [Rishivardan Vallikanthan](https://www.linkedin.com/in/rishivardan-vallikanthan-42b464350/)  
-📧 Email: rishivardan2004@gmail.com  
-
----
-
-⭐ *Open to Software Engineering Internships*
+⭐ Open to Software Engineering Internships
